@@ -33,13 +33,13 @@ All **Assembly files** are written based on **x86_64 architecture** and **AT&T s
 
 - [x] Lab 9: Working with Valgrind, Perf and so more
 
-- [x] Lab 10:
+- [x] Lab 10: Single & Double Precision
 
-- [x] Lab 11:
+- [x] Lab 11: SIMD Assembly and Vectorclass
 
-- [x] Lab 12:
+- [x] Lab 12: Compiler Explorer
 
-- [x] Mini-Project:
+- [x] Mini-Project
 
 ## Quizzes:
 
